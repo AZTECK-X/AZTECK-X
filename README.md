@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Selam! Ben AZTECK-X
 
-<!--
-**AZTECK-X/AZTECK-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Python & Bot Developer  
+🚀 Otomasyon sistemleri, Discord/Telegram botları ve API entegrasyonları geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Neler Yapıyorum?
+
+- 🤖 Discord & Telegram Botları (otomatik cevap, admin sistemleri, görevler vs.)
+- 🌐 API bağlantılı sistemler (kripto fiyat, haber, otomatik görev)
+- 📦 Otomasyon & görev yönetimi (python script & bot birleşimi)
+
+---
+
+## 🧰 Kullandığım Teknolojiler
+`Python`, `Discord.py`, `Telebot`, `Requests`, `Replit`, `GitHub`, `VSCode`
+
+---
+
+## 📫 Bana Ulaşın
+> Şu anlık: Bionluk ve Discord üzerinden  
+> **Yeni projeler için mesaj atabilirsiniz!**
+
+---
+
+🚧 Sürekli öğreniyorum, sürekli geliştiriyorum.  
+🧱 Temeli sağlam at, üstüne sistem kur: AZTECK-X felsefesi
